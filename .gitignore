@@ -7,4 +7,4 @@ public_key.pem
 box.config.php
 phpunit.xml
 composer.lock
-*.json
+*_config.json
